@@ -1,11 +1,17 @@
 {
-  "Group": "Plastic",
-  "Name": "Fantastic-Worldgen",
+  "Group": "Rotspore",
+  "Name": "Bog-Worldgen",
   "Version": "1.0.0",
   "Description": "",
-  "Authors": [],
-  "Website": "https://plstcfntstc.artstation.com/",
-  "ServerVersion": "2026.03.20-db226053c",
+  "Authors": [
+    {
+      "Name": "PlasticFantastic",
+      "Email": "",
+      "Url": "https://www.artstation.com/plstcfntstc"
+    }
+  ],
+  "Website": "https://www.curseforge.com/hytale/worlds/the-rotspore-bog",
+  "ServerVersion": "2026.02.19-1a311a592",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},
